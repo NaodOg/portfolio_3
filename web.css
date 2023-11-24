@@ -1,0 +1,109 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c6a2a2;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1em;
+}
+
+section {
+    margin: 2em;
+}
+
+.og-pics {
+display: flex;
+max-width: 150px;
+padding-right: 86px;
+}
+
+ 
+
+
+section img {
+    border-radius: 80%;
+    max-width: 210px;
+    margin-bottom: 1em;
+}
+.disc {
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: darkcyan;
+}
+
+
+.container{
+    display: flex;
+}
+
+.Hello{
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    width: 30%;
+}
+.contact{
+    width: 30%;
+    padding: 30px;
+    margin-left: 200px;
+    font-size: large;
+}
+.projectstext{
+    align-items: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 60%;
+}
+.projects{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position:static;
+    bottom: 0;
+    width: 100%;
+}
+.skillimage{
+    align-items: center;
+    padding-left: 500px;
+}
+
+
+
+
+.skillset{
+ display: flex;
+
+}
+.webb{
+    width: 30%;
+    margin: 20px;
+    margin-left: 200px;
+}
+ .java{
+    width: 30%;
+    margin: 20px;
+ }
